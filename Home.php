@@ -38,7 +38,7 @@
 				<img class="img-responsive" src="images/2.jpg" alt="">
 				<div class="about-img">
 					<div class="col-md-6 col-xs-6 about-img1">
-						<img class="img-responsive" src="images/3.jpg" alt="">
+						<img class="img-responsive" src="images/f1.jpg" alt="">
 					</div>
 					<div class="col-md-6 col-xs-6 about-img2">
 						<img class="img-responsive" src="images/4.jpg" alt="">
@@ -47,23 +47,21 @@
 				</div>
 			</div>
 			<div class="col-md-6 come">
-                <div class="about-wel">
-                    <h5>Providing services since <span style="color:orangered">2016</span></h5>
+			<div class="about-wel">
+                    <h5>Providing services since <span style="color:blue">2018</span></h5>
                     <p>
-                        We pride ourselves in providing IT solutions that cater to our clients' needs and wants
-                        regardless of what type of business or personal digital footprint you want to leave over the internet
-                    </p>
-                    <p>
-                        Ndu-systems has a drive to impact the way that our communities percieve business over the internet.
-                        this can be your oppotunity to utilize our affordable and professionally driven services provided to you on a personal level.
-                    </p>
+						We pride ourselves in providing a wide array of services that are tailored to your every need.
+						<br/> Putting Professionalism in the forefront of our company name and its reputation is everything to uphold 
+						<br/> Our Customers have the experirience of speaking their mind and letting their <b>iiMagination</b> flow with our proffessional guidance
+					</p>                
                     <h5>
                         OUR VALUES
                     </h5>
                     <ul>
-                        <li><i class="fa fa-trophy" aria-hidden="true"></i>Drive</li>
-                        <li><i class="fa fa-trophy" aria-hidden="true"></i>Honest</li>
-                        <li><i class="fa fa-trophy" aria-hidden="true"></i>Develop</li>
+                        <li><i class="fa fa-trophy" aria-hidden="true"></i>Motivate</li>
+                        <li><i class="fa fa-trophy" aria-hidden="true"></i>Guid</li>
+						<li><i class="fa fa-trophy" aria-hidden="true"></i>Develop</li>
+						<li><i class="fa fa-trophy" aria-hidden="true"></i>Develop</li>
                     </ul>
                 </div>
 			</div>

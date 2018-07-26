@@ -13,7 +13,7 @@
 <div class="services-breadcrumb">
 	<div class="agile_inner_breadcrumb">
 	   <ul class="w3_short">
-			<li><a href="Home">Home</a><i>||</i></li>
+			<li><a href="Home.php">Home</a><i>||</i></li>
 			<li>Contact Us</li>
 		</ul>
 	</div>
@@ -35,8 +35,7 @@
 						</div>
 						<div class="col-xs-9 w3l_contact_grid_right">
 							<ul>
-								<li>(084) 252 9472</li>
-								<li>(074) 695 8064</li>
+								<li>(000) 000 0000</li>							 
 							</ul>
 						</div>
 						<div class="clearfix"> </div>
@@ -54,18 +53,7 @@
 						</div>
 						<div class="clearfix"> </div>
 					</div>
-					<!--<div class="w3_agileits_mail">
-						<div class="col-xs-3 w3l_contact_grid_left">
-							<span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
-						</div>
-						<div class="col-xs-9 w3l_contact_grid_right">
-							<ul>
-								<li><a href="mailto:queries@ndu-systems.net">queries@ndu-systems.net</a></li>
-								<li><a href="mailto:sales@ndu-systems.net">queries@ndu-systems.net</a></li>
-							</ul>
-						</div>
-						<div class="clearfix"> </div>
-					</div>-->
+					 
 				</div>
 				<div class="col-md-9 w3_contact_grid" ng-controller="homeController">
 					<div>
