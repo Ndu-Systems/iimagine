@@ -46,9 +46,9 @@
 						</div>
 						 <div class="col-xs-9 w3l_contact_grid_right">
 							<ul>
-								<li>270 Marshall St, City and Suburban</li>
-								<li>Johannesburg</li>
-                                <li>2094</li>
+								<li>79 Prospect Road, Umbilo</li>
+								<li>Durban</li>
+                                <li>4075</li>
 							</ul>
 						</div>
 						<div class="clearfix"> </div>

@@ -17,7 +17,7 @@
             from: email,
             name: name,
             number: number,
-            subject: "Ndu Systems Customer Care - Website Query Subject",
+            subject: "iiMagine Customer Care -  Query",
             message : message
         };
         $http.post("http://ndu-systems.net/api/emailbeta.php", emailObj)
@@ -28,7 +28,7 @@
 						$scope.number = "";
 						$scope.message = "";
 						
-                        $scope.success = "Thank you contact us , we call you as soon as possible ";
+                        $scope.success = "Thank you for contact us , we call you as soon as possible ";
                     })
                     .error(function (error) {
                         console.error(error);
