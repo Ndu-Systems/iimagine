@@ -13,7 +13,7 @@
 		if(name !== undefined && number !== undefined  && message !== undefined && email !== undefined){
 
         var emailObj = {
-            email: "queries@ndu-systems.net, mrnnmthembu@gmail.com",//our email here
+            email: "queries@ndu-systems.net, phenkosi@gmail.com",//our email here
             from: email,
             name: name,
             number: number,
