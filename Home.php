@@ -10,16 +10,18 @@
 				<div class="agile_banner_info1">
 					<h3>Welcome To <span>iiMagine</span></h3>
 					<div id="typed-strings" class="agileits_w3layouts_strings">
-						<p>Website  <i>Design</i></p>
-						<p>Custom <i>Systems</i></p>
-						<p>Mobile <i>Applications</i></p>
-						<p>Logo <i>Design</i></p>
-						<p>Website <i>Hosting</i></p>
+						<p>iiMagine  <i>Recruitment and Consulting</i></p>
+						<p>iiMagine <i>Tailoring </i></p>
+						<p>iiMagine <i>Security and VIP Protection</i></p>
+						<p>iiMagine <i>Cleaning</i></p>
+						<p>iiMagine <i>Mining</i></p>
+						<p>iiMagine <i>Trucking</i></p>
+						<p>iiMagine <i>Construction</i></p>
 					</div>
 					<span id="typed" style="white-space:pre;"></span>
 				</div>
 				<div class="banner_agile_para">
-					<p>Take your business online</p>
+					<p>Arise and Join hands To Build</p>
 				</div>
 				<div class="wrapper-inner-tab-backgrounds">
 					<div class="wrapper-inner-tab-backgrounds-first"><a href="Our-Services.php"><div class="sim-button button17">Read More</div></a></div>
