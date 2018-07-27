@@ -440,7 +440,7 @@ body a:focus {
 #typed {
     font-size: 3.5em;
     color: #fff;
-    text-transform: capitalize;
+    /* text-transform: capitalize; */
     line-height: 1.5em;
 }
 #typed i{
