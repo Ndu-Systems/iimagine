@@ -2,7 +2,7 @@
 		<div class="header">
             <div class="logo" style="width: 30%;">
                 <!--<h1><a href="#/"><span>N</span>du-system.net</a></h1>-->
-                <a href="Home.php"> <img src="images/logo.png" style="width:40%" /></a>
+                
             </div>   
 			<div class="clearfix"> </div>
 		</div>
