@@ -71,26 +71,29 @@
                     <div class="col-lg-8 col-md-8 col-sm-12">
                         <h3><i class="fa fa-cogs" aria-hidden="true"></i> iiMagine Tailor Group</h3>
                         <p>   
-                         <b>iiTailor Group (Pty) Ltd (iiTG)</b> Company is designed and made exclusively for the individual client in question.<br/> 
+                         <b>iiMagine Tailor Group (Pty) Ltd (iiTG)</b> Company is designed and made exclusively for the individual client in question.<br/> 
                         With our guidance the client can select a desired style, cloth, trims and garment internal 
                         details ultimately creating their own individual look.                   
                         </p>
                         <hr />
                     </div>
                 </div>     
-                <!-- <div class="row pad">
+                <div class="row pad">
                     <div class="col-lg-4 col-md-4 col-sm-12">
                         <a href="#/contactus">
-                            <img src="images/security.jpg" width="300" />
+                            <img src="images/photo.jpg" width="300" />
                         </a>                        
                     </div>
                     <div class="col-lg-8 col-md-8 col-sm-12">
-                        <h3><i class="fa fa-cogs" aria-hidden="true"></i> SECURITY & VIP PROTECTION</h3>
-                        <h4>                      
-                        </h4>
+                        <h3><i class="fa fa-cogs" aria-hidden="true"></i> iiMagine Photography Group</h3>
+                       <p>
+                       <b>iiMagine Photography Group (Pty) Ltd (iiPG)</b> Company is designed and made exclusively for the individual client in question.<br/> 
+                        Creating timeless moments and eye catching Photography that is sure to put a zing in your portfolio.                 
+                        
+                       </p>
                         <hr />
                     </div>
-                </div>   -->
+                </div>  
                 <div class="row pad">
                     <div class="col-lg-4 col-md-4 col-sm-12">
                         <a href="#/contactus">

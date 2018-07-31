@@ -9,7 +9,7 @@
 			<div class="agile_banner_info">
 				<div class="agile_banner_info1"> 
 					<div class="row">
-						<h3><a href="Home.php"><img src="images/icon.png" style="width:10%" /></a> <span>iiMagine Consulting Group</span></h3>
+						<h3><a href="Home.php"><img src="images/icon.PNG" style="width:10%" /></a> <span>iiMagine Consulting Group</span></h3>
 					</div>
 					<div class="banner_agile_para">
 					<p>'Arise and Join hands To Build'</p>
@@ -97,7 +97,7 @@
 				<p><i class="fa fa-phone" aria-hidden="true"></i> (083) 510 4531</p>
 			</div>
 			<div class="col-md-6 agileits-w3layouts-footer-top-left">
-				<p><i class="fa fa-envelope" aria-hidden="true"></i> Email :<a href="mailto:queries@iimagine.consultinggroup.co.za"> queries@iimagine.consultinggroup.co.za</a></p>
+				<p style="color:white;"><i class="fa fa-envelope" aria-hidden="true"></i> Email :<a  href="mailto:queries@iimagine.consultinggroup.co.za"> queries@iimagine.consultinggroup.co.za</a></p>
 			</div>
 			<div class="clearfix"> </div>
 		</div>
