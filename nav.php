@@ -11,9 +11,9 @@
 		<nav class="cd-stretchy-nav edit-content">
 			<a class="cd-nav-trigger" href="#0"> Menu <span aria-hidden="true"></span> </a>
 			<ul>
-				<li><a href="Home.php" class="scroll active"><span>HOME</span></a></li>
-		    	<li><a href="Our-Services.php"><span>OUR SERVICES</span></a></li>   
-		  		<li><a href="Contact-Us.php"><span>CONTACT US</span></a></li>              
+				<li><a href="Home" class="scroll active"><span>HOME</span></a></li>
+		    	<li><a href="Our-Services"><span>OUR SERVICES</span></a></li>   
+		  		<li><a href="Contact-Us"><span>CONTACT US</span></a></li>              
 			</ul>        
 			<span aria-hidden="true" class="stretchy-nav-bg"></span>
 		</nav> 

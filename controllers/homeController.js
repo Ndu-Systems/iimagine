@@ -13,14 +13,14 @@
 		if(name !== undefined && number !== undefined  && message !== undefined && email !== undefined){
 
         var emailObj = {
-            email: "queries@ndu-systems.net, phenkosi@gmail.com",//our email here
+            email: "queries@ndu-systems.net, sphesihle@iimaginegroup.co.za",//our email here
             from: email,
             name: name,
             number: number,
             subject: "iiMagine Customer Care -  Query",
             message : message
         };
-        $http.post("http://iimaginerecruitments.co.za/api/emailbeta.php", emailObj)
+        $http.post("http://iimaginegroup.co.za/api/emailbeta.php", emailObj)
                     .success(function (response) {
                         console.log(response);
 						$scope.name = "";
