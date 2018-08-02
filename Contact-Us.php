@@ -13,7 +13,7 @@
 <div class="services-breadcrumb">
 	<div class="agile_inner_breadcrumb">
 	   <ul class="w3_short">
-			<li><a href="Home.php">Home</a><i>||</i></li>
+			<li><a href="Home">Home</a><i>||</i></li>
 			<li>Contact Us</li>
 		</ul>
 	</div>
@@ -35,7 +35,14 @@
 						</div>
 						<div class="col-xs-9 w3l_contact_grid_right">
 							<ul>
-								<li>(083) 510 4531</li>							 
+								<li>Executive Director
+									<br/>
+									Mr. Sphesihle Nkosi
+									<br/>
+									(083) 510 4531
+									<a href="mailto:sphesihle@iimaginegroup.co.za" style="color:gray"> sphesihle@iimaginegroup.co.za</a>
+									 </li>
+								<li></li>							 
 							</ul>
 						</div>
 						<div class="clearfix"> </div>
@@ -46,9 +53,7 @@
 						</div>
 						 <div class="col-xs-9 w3l_contact_grid_right">
 							<ul>
-								<li>79 Prospect Road, Umbilo</li>
-								<li>Durban</li>
-                                <li>4075</li>
+								<li>79 Prospect Road, Umbilo <br/>Durban<br/>4075</li>							 
 							</ul>
 						</div>
 						<div class="clearfix"> </div>

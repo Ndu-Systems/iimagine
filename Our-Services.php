@@ -10,7 +10,7 @@
 <div class="services-breadcrumb">
 	<div class="agile_inner_breadcrumb">
 	   <ul class="w3_short">
-			<li><a href="Home.php">Home</a><i>||</i></li>
+			<li><a href="Home">Home</a><i>||</i></li>
 			<li>Services</li>
 		</ul>
 	</div>
@@ -26,27 +26,7 @@
                 </div>
             </div>
             <div class="row">
-           
-                <div class="row pad">
-                    <div class="col-lg-4 col-md-4 col-sm-12">
-                        <a href="#/contactus">
-                            <img src="images/recruitement.jpg" width="300" />
-                        </a>                        
-                    </div>
-                    <div class="col-lg-8 col-md-8 col-sm-12">
-                        <h3><i class="fa fa-cogs" aria-hidden="true"></i> iiMagine Construction Group</h3>
-                        <p>  
-                            <b>iiMagine Construction & Consulting Group (Pty) Ltd (iiCCG)</b>We support the principle of “wise and efficient use” 
-                            and Management and see this as key to sustainability development goals and new technology engagement and the long-term 
-                            preservation of our natural resources.<br/>
-                            It supports the universal principles of the United Nations Global Compact which is a strategic policy 
-                            initiative for business corporate and social responsibility and aligns day to today and strategic operations within 
-                            construction              
-                        </p>
-                        <hr />
-                    </div>
-                </div>  
-                <div class="row pad">
+                 <div class="row pad">
                     <div class="col-lg-4 col-md-4 col-sm-12">
                         <a href="#/contactus">
                             <img src="images/hire.jpg" width="300" />
@@ -97,6 +77,24 @@
                 <div class="row pad">
                     <div class="col-lg-4 col-md-4 col-sm-12">
                         <a href="#/contactus">
+                            <img src="images/security.jpg" width="300" />
+                        </a>                        
+                    </div>
+                    <div class="col-lg-8 col-md-8 col-sm-12">
+                        <h3><i class="fa fa-cogs" aria-hidden="true"></i> iiMagine Security Group</h3>
+                        <p>  
+                        <b>iiMagine Security Group (iiSG)</b> Our belief is that the best VIP protection security is based on advance preparations and planning,
+                             timely information, liaison with local authorities, and the use of highly trained professionals.<br/>
+                             We’ve found that most people do not like the "mob" effect of protection that seeks to smother or cover 
+                             the protected person with a physical presence.<br/>
+                             We also take into account the style and specific needs of the person we’re protecting.
+                        </p>
+                        <hr />
+                    </div>
+                </div> 
+                <div class="row pad">
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                        <a href="#/contactus">
                             <img src="images/cleaning.jpg" width="300" />
                         </a>                        
                     </div>
@@ -125,7 +123,21 @@
                         <hr />
                     </div>
                 </div>      -->
-                     
+                 <div class="row pad">
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                        <a href="#/contactus">
+                            <img src="images/property.jpg" width="300" />
+                        </a>                        
+                    </div>
+                    <div class="col-lg-8 col-md-8 col-sm-12">
+                        <h3><i class="fa fa-cogs" aria-hidden="true"></i> iiMagine Property Group </h3>
+                        <p>  
+                        <b>iiMagine Property Group (iiMPG)</b> We specialize in New Construction, Renovation, Custom Residential Design and Real Estate Owned (REO) services.<br/>
+                        Our resources allow Property Services to guide each client through the building process with attention to cost, size, detail and quality of each project.<br/>
+                           </p>
+                        <hr />
+                    </div>
+                </div>   
                 <div class="row pad">
                     <div class="col-lg-4 col-md-4 col-sm-12">
                         <a href="#/contactus">

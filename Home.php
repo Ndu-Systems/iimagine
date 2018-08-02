@@ -9,7 +9,7 @@
 			<div class="agile_banner_info">
 				<div class="agile_banner_info1"> 
 					<div class="row">
-						<h3><a href="Home.php"><img src="images/icon.PNG" style="width:10%" /></a> <span>iiMagine Consulting Group</span></h3>
+						<h3><a href="Home"><img src="images/icon.PNG" style="width:10%" /></a> <span>iiMagine Consulting Group</span></h3>
 					</div>
 					<div class="banner_agile_para">
 					<p>'Arise and Join hands To Build'</p>
@@ -52,40 +52,49 @@
 				</div>
 			</div>
 			<div class="col-md-6 come">
-			<div class="about-wel">
+				<div class="about-wel">
                     <h5>Who Are We?</h5>
                     <p>
-					iiMagine Group is a consulting company with vast in interest in Recruitment, Tailoring, Mining, Trucking, Cleaning, Photography, etc. From a humbling beginning in 2018
-						<br/>We pride ourselves in providing a wide array of services that are tailored to your every need.
+						iiMagine Group is a consulting company with vast interest in Recruitment, Tailoring, Mining, Trucking, Cleaning, Photography, etc, from a humbling beginning in 2018						 
 						<br/> Putting Professionalism in the forefront of our company name and its reputation is everything to uphold 
 						<br/> Our Customers have the experirience of speaking their mind and letting their <b>iiMagination</b> flow with our proffessional guidance
 					</p>                
                     <h5>
                         OUR VALUES
                     </h5>
-                    <ul>
-                       
-						          
-                    </ul>
-					<table style="text-align:left">
-					<tr>
-						<td><i class="fa fa-trophy" aria-hidden="true"></i>Clients comes first </td>					
-						<td></td>
-						<td><i class="fa fa-trophy" aria-hidden="true"></i>We deliver the best</td>
-					</tr>
-					<tr>
-						<td><i class="fa fa-trophy" aria-hidden="true"></i>Diversity </td>					
-						<td></td>
-						<td><i class="fa fa-trophy" aria-hidden="true"></i>Confidentiality</td>
-					</tr>
-					<tr>
-						<td><i class="fa fa-trophy" aria-hidden="true"></i>Partnership </td>					
-						<td></td>
-						<td><i class="fa fa-trophy" aria-hidden="true"></i>Integrity</td>
-					</tr>
-					</table>
+                   	<div class="row">
+				   	<div class="col-md-6 pull-left">
+				   		<p><i class="fa fa-trophy" aria-hidden="true"></i> Clients comes first </p>
+						<p><i class="fa fa-trophy" aria-hidden="true"></i> Diversity</p>
+						<p><i class="fa fa-trophy" aria-hidden="true"></i> Partnership</p>
+				   	</div>
+					<div class="col-md-6 pull-right">
+								<p><i class="fa fa-trophy" aria-hidden="true"></i> We deliver the best</p>
+								<p><i class="fa fa-trophy" aria-hidden="true"></i> Confidentiality</p>
+								<p><i class="fa fa-trophy" aria-hidden="true"></i> Integrity</p>
+						</div>
+					</div>						   
                 </div>
 			</div>
+			<!-- <div clas="about-top w3ls-agile">
+				<div class="col-md-6 red">					 
+				</div>
+				<div class="col-md-6 come">
+					<div class="about-wel">
+						<h5>
+							Our Team
+						</h5>
+						<div class="row">
+							<div class="col-md-6">
+								<p><i class="fa fa-briefcase" aria-hidden="true"></i> Executive Director:</p>
+							</div>
+							<div class="col-md-6 pull-right">
+								<p>Sphesihle Nkosi</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>	  -->
 			<div class="clearfix"> </div>
 		</div>
 	</div>
@@ -94,10 +103,10 @@
 	<div class="agileits-w3layouts-footer-top">
 		<div class="container">
 			<div class="col-md-6 agileits-w3layouts-footer-top-left">
-				<p><i class="fa fa-phone" aria-hidden="true"></i> (083) 510 4531</p>
+				<p><i class="fa fa-phone" aria-hidden="true"></i> Executive Director: (083) 510 4531</p>
 			</div>
 			<div class="col-md-6 agileits-w3layouts-footer-top-left">
-				<p style="color:white;"><i class="fa fa-envelope" aria-hidden="true"></i> Email :<a  href="mailto:queries@iimagine.consultinggroup.co.za"> queries@iimagine.consultinggroup.co.za</a></p>
+				<p style="color:white;"><i class="fa fa-envelope" aria-hidden="true"></i> Email :<a  href="mailto:info@iimaginegroup.co.za"> info@iimaginegroup.co.za</a></p>
 			</div>
 			<div class="clearfix"> </div>
 		</div>
@@ -109,7 +118,7 @@
 					<h2>VISION</h2>
 					<div class="footer-img-grids">
 						<div class="footer-img">
-							<img src="images/f1.jpg" alt="" />
+							<img src="images/photo.jpg" alt="" />
 						</div>
 						<div class="footer-img-info">
 							<p>

@@ -2,10 +2,10 @@
 	<div class="agileits-w3layouts-footer-top">
 		<div class="container">
 			<div class="col-md-6 agileits-w3layouts-footer-top-left">
-				<p><i class="fa fa-phone" aria-hidden="true"></i> (083) 510 4531</p>
+				<p><i class="fa fa-phone" aria-hidden="true"></i> Executive Director: (083) 510 4531</p>
 			</div>
 			<div class="col-md-6 agileits-w3layouts-footer-top-left">
-				<p><i class="fa fa-envelope" aria-hidden="true"></i> Email :<a href="mailto:queries@iimagine.consultinggroup.co.za"> queries@iimagine.consultinggroup.co.za</a></p>
+				<p><i class="fa fa-envelope" aria-hidden="true"></i> Email :<a href="mailto:info@iimaginegroup.co.za"> info@iimaginegroup.co.za</a></p>
 			</div>
 			<div class="clearfix"> </div>
 		</div>
@@ -17,7 +17,7 @@
 					<h2>VISION</h2>
 					<div class="footer-img-grids">
 						<div class="footer-img">
-							<img src="images/f1.jpg" alt="" />
+							<img src="images/photo.jpg" alt="" />
 						</div>
 						<div class="footer-img-info">
 							<p>
