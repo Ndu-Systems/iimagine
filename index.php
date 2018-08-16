@@ -15,13 +15,16 @@
 					<p>'Arise and Join hands To Build'</p>
 					</div>
 					<div id="typed-strings" class="agileits_w3layouts_strings">
-						<p>iiMagine <i>Recruitment and Consulting</i></p>
-						<p>iiMagine <i>Tailoring </i></p>
-						<p>iiMagine <i>Security and VIP Protection</i></p>
-						<p>iiMagine <i>Cleaning</i></p>
-						<p>iiMagine <i>Mining</i></p>
-						<p>iiMagine <i>Trucking</i></p>
-						<p>iiMagine <i>Construction</i></p>
+						<p>iiMagine <i>Recruitment Group</i></p>
+						<p>iiMagine <i>Tailor Group </i></p>
+						<p>iiMagine <i>Photography Group</i></p>
+						<p>iiMagine <i>Security Group</i></p>
+						<p>iiMagine <i>Cleaning Group</i></p>
+						<p>iiMagine <i>Mining Group</i></p>
+						<p>iiMagine <i>Property Group</i></p>
+						<p>iiMagine <i>Construction Group</i></p>
+						<p>iiMagine <i>Trucking and Transport logistics Group
+						</i></p>
 					</div>
 					<span id="typed" style="white-space:pre;"></span>
 				</div>
@@ -55,9 +58,9 @@
 				<div class="about-wel">
                     <h5>Who Are We?</h5>
                     <p>
-						iiMagine Group is a consulting company with vast interest in Recruitment, Tailoring, Mining, Trucking, Cleaning, Photography, etc, from a humbling beginning in 2018						 
-						<br/> Putting Professionalism in the forefront of our company name and its reputation is everything to uphold 
-						<br/> Our Customers have the experirience of speaking their mind and letting their <b>iiMagination</b> flow with our proffessional guidance
+					iiMagine Group is a consulting firm with vast interest in Recruitment, Tailoring,  Mining, Trucking, Cleaning, Photography,  Property,  and construction.<br/>
+					iiMagine started on a humbling beginning of 2018. <br/>
+					Professionalism is the forefront of our firm. We would like you to save time and consult with us, we deliver the best. Contact us and we will listen and assist. iiMagine will make your life more comfortable and easier. Talent is what we offering. 
 					</p>                
                     <h5>
                         OUR VALUES
@@ -122,7 +125,7 @@
 						</div>
 						<div class="footer-img-info">
 							<p>
-							To make sure our we deliver on time within a 24hour turn around and deliver the best.
+							To make sure we deliver on time within 24hours and deliver the best.
 							</p>
 						</div>
 						<div class="clearfix"> </div>
@@ -136,10 +139,10 @@
 						</div>
 						<div class="footer-img-info">
 							<p>
-								To put our clients first and treat our candidate with a prestige manner
+							To put our clients first and treat our candidate with prestige manner. 
 							</p>
 							<p>
-							Provide best and talented candidate for your specific requirements.
+							To provide the skillful and talented candidates for your specific requirements.
 							</p>
 						</div>
 						<div class="clearfix"> </div>
